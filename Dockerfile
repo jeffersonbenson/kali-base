@@ -12,5 +12,4 @@ RUN apt-get update && \
 	apt-get install metasploit && \
 	git clone https://github.com/jeffersonbenson/xerosploit.git && \ 
 	git clone https://github.com/susmithHCK/torghost.git && \
-	git clone https://github.com/susmithHCK/cpscan.git && \
-	
+	git clone https://github.com/susmithHCK/cpscan.git
